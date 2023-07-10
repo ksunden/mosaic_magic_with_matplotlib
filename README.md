@@ -27,7 +27,7 @@ $ cd mosaic_magic_with_matplotlib
 - Create a conda envioronment:
 
 ```bash
-$ conda env create -f envioronment.yml
+$ conda env create -f environment.yml
 $ conda activate mosaic_magic_mpl
 ```
 
